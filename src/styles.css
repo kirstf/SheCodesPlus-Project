@@ -1,0 +1,71 @@
+.html {
+  height: 100%;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-repeat: repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.body {
+  font-family: raleway;
+}
+
+.today {
+  text-align: center;
+  border-radius: 8px 8px 0 0;
+  padding: 40px;
+  background: #a3a1a218;
+  border: 4px solid #2425250c;
+  margin: 15px auto;
+  max-width: 500px;
+}
+.next-7 {
+  text-align: center;
+}
+.city {
+  font-family: crete round;
+  font-size: 60px;
+}
+.condition {
+  color: grey;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.cloud {
+  color: grey;
+  font-size: 50px;
+  font-weight: bold;
+}
+.current-temp {
+  font-size: 40px;
+  font-weight: bold;
+}
+.high-low {
+  position: relative;
+}
+.week {
+  font-weight: bold;
+  font-family: crete round;
+}
+.card-high {
+  text-transform: lowercase;
+  font-size: 13px;
+  text-align: center;
+  padding: 3px;
+  margin: 2px;
+}
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+.weather-symbol {
+  font-size: 40px;
+  color: grey;
+}
+.footer {
+  padding: 100px auto;
+  margin: 100px 100px;
+  border: 20px auto;
+}
